@@ -19,7 +19,10 @@ footer {
   bottom: 0;
 }
 
-#c {margin-left: 10px;}
+#c {
+  color: #fff;
+  margin-left: 10px;
+}
 
 h2 {
   position: relative;
