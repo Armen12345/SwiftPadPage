@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  font-family: 'Roboto', Roboto, system-ui, -apple-system, BlinkMacSystemFont, Arial, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration: none;
+}
+
+a {
+  background: #50E3C2;
+  border: 15px solid #50E3C2;
+  color: #000;
+}
+
+footer {
+  background: #2C3E50;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#c {margin-left: 10px;}
+
+h2 {
+  position: relative;
+  left: 10px;
+}
+
+header {
+  background: #4A90E2;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+main {
+  background: #F5F7FA;
+  position: fixed;
+  top: 69px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+main a, p, h3 {margin-left: 10px;}
+main h4 {margin-left: 14px;}
+div p {margin-left: 18px;}
